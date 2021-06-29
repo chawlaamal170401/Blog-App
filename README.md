@@ -1,4 +1,4 @@
-# This is a NOdeJS application  that can be used to make Personal Bloggs
+# This is a NodeJS application  that can be used to make Personal Bloggs
 
 ### This is a NodeJS based web application
 
